@@ -1,2 +1,2 @@
 # Passwordgenerators
-Password generators in different programming languages
+A list of Password generators in different programming languages
